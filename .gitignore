@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+.env
+
+.venv/
+.idea/
+pyvenv.cfg
